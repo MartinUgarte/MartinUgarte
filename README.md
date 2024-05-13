@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi!
 
+* 🧑 My name is Martin Ugarte
+* 🎓 I'm finishing my IT engineering studies at University of Buenos Aires (UBA)
+* 🎯 I'm interested in Data Science and Machine Learning stuff
+* ✉️ mugarte@fi.uba.ar
 <!--
 **MartinUgarte/MartinUgarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
